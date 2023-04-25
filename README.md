@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo{{𝗛𝗔𝗖𝗞𝗜𝗡𝗚}}{{𝗭𝗢𝗡𝗘}}
-![](https://github-contributor-stats.{{𝗘𝗠𝗥𝗔𝗡}}vercel.app/api?username=Max-fro-man&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.{{𝗧𝗘𝗥𝗠𝗨𝗫}}vercel.app/api?username=TERMUX-ZONE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme{{𝗛𝗔𝗖𝗞𝗜𝗡𝗚}}{{𝗭𝗢𝗡𝗘}}
 <img src="https://rm.up.railway.app/" width="512px"/>
